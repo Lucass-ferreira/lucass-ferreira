@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌱 Atualmente estou aprendendo HTML5 e CSS3.
-📫 Como entrar em contato comigo: lucasfereira@gmail.com
+
+📫 Como entrar em contato comigo: lucasfereira@gmail.com.
 
 <!--
 **Lucass-ferreira/lucass-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
