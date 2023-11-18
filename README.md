@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 Atualmente estou aprendendo HTML5 e CSS3.
-
+🔭 Atualmente estou trabalhando em: Didudy Delicatessen.
 📫 Como entrar em contato comigo: lucasfereira@gmail.com.
 
 <!--
