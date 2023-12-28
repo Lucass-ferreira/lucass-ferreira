@@ -1,7 +1,7 @@
-### Olá, sou Lucas 👋
-- 🔭 Atualmente estou trabalhando em: Didudy Delicatessen.
-- 🌱 Conhecendo o mundo Front-End, Atualmente estou aprendendo HTML5 e CSS3.
-- 📫 Como entrar em contato comigo: lucasfereira@gmail.com
+### Olá, me chamo Lucas 👋
+- 🔭 Estou atualmente desempregado.
+- 🌱 Conhecendo o mundo Front-End. Atualmente estou estudando HTML5 e CSS3.
+- 📫 Meu e-mail para contato: lucasfereira@gmail.com
 ##
 
 <!--
