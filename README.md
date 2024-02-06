@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas 👋
 - 🔭 Estou atualmente desempregado.
-- 🌱 Conhecendo o mundo Front-End. Atualmente estou estudando HTML5 e CSS3.
+- 🌱 Conhecendo o mundo Front-End. Atualmente estou estudando HTML5, CSS3 e Javascript.
 - 📫 Meu e-mail para contato: lucasfereira@gmail.com
 ##
 
