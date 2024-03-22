@@ -1,7 +1,7 @@
 ### Olá, me chamo Lucas Ferreira👋
 - 🔭 Estou atualmente desempregado.
 - 🌱 Conhecendo o mundo Front-End. Atualmente estou estudando HTML5, CSS3 e Javascript.
-- 📫 Meu e-mail para contato: lucasfereiracontatoo@gmail.com
+- 📫 Meu e-mail para contato: lucasferreiracontatoo@gmail.com
 ##
 
 <!--
